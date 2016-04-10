@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ChessTest
+Exec=webapp-container --inspector ./www/index.html
+Icon=ChessTest.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

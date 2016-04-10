@@ -1,0 +1,17 @@
+{
+    "name": "chesstest.lychees",
+    "description": "description of ChessTest",
+    "architecture": "all",
+    "title": "ChessTest",
+    "hooks": {
+        "ChessTest": {
+            "apparmor": "ChessTest.apparmor",
+            "desktop":  "ChessTest.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "MinakoKojima <lychees67@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04.4"
+}
+
+
